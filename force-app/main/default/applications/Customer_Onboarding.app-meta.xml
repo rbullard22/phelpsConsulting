@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <brand>
+        <headerColor>#DA882F</headerColor>
+        <shouldOverrideOrgTheme>false</shouldOverrideOrgTheme>
+    </brand>
+    <formFactors>Small</formFactors>
+    <formFactors>Large</formFactors>
+    <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
+    <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <label>Customer Onboarding</label>
+    <navType>Standard</navType>
+    <tabs>standard-Account</tabs>
+    <tabs>standard-Contact</tabs>
+    <tabs>standard-Invoice</tabs>
+    <tabs>standard-ActiveScratchOrg</tabs>
+    <tabs>standard-AppLauncher</tabs>
+    <tabs>standard-LightningBoltHome</tabs>
+    <uiType>Lightning</uiType>
+    <utilityBar>Customer_Onboarding_UtilityBar</utilityBar>
+</CustomApplication>

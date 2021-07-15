@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <defaultLandingTab>standard-home</defaultLandingTab>
+    <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
+    <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <label>Vendor Transaction Portal</label>
+    <tabs>standard-Account</tabs>
+    <tabs>standard-Dashboard</tabs>
+    <tabs>web_tab_1</tabs>
+</CustomApplication>
